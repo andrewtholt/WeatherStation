@@ -1,0 +1,4 @@
+
+print('[boot]')
+import esp
+
